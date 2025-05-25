@@ -351,7 +351,7 @@ https://www.usgs.gov/core-science-systems/nli/landsat
 https://www.esa.int/Applications/Observing_the_Earth
 
 8. Defense Intelligence Agency. (2021). Satellite Reconnaissance and Strategic Military Applications.
-– Confidential briefings and unclassified reports on KH-series LEO spy satellites (public summary reports).
+– Confidential briefings and unclassified reports on KH-series LEO spy satellites .
 
 
 
