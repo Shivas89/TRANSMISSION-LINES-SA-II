@@ -268,6 +268,97 @@ f: Focal length of optical system
 Used in LEO spy satellites to estimate clarity of ground targets, e.g., reading license plates or identifying missile silos.
 ![image](https://github.com/user-attachments/assets/2d4e3b2d-8636-41dd-b082-9b53edec026b)
 
+# 5. Revisit Time (for Imaging Satellites)
+𝑇
+𝑟
+≈
+𝑇
+𝑜
+𝑟
+𝑏
+𝑖
+𝑡
+⋅
+360
+∘
+Δ
+𝜆
+T 
+r
+​
+ ≈ 
+Δλ
+T 
+orbit
+​
+ ⋅360 
+∘
+ 
+​
+ 
+𝑇
+𝑟
+T 
+r
+​
+ : Revisit time
+
+Δ
+𝜆
+Δλ: Change in ground track longitude
+
+ # Application:
+
+Used in satellite constellations to plan how often a region (like enemy territory) is scanned.
+
+![image](https://github.com/user-attachments/assets/a4daa4b9-03e5-4d76-a3fa-b4ca0dc15d6e)
+
+# Conclusion – Operation Falcon Eye
+In the era of modern warfare and surveillance, satellite systems have emerged as strategic assets for intelligence, communication, and tactical planning. This study, under the codename Operation Falcon Eye, presents a comparative analysis of Geostationary (GEO) and Low Earth Orbit (LEO) satellites from both technical and operational perspectives.
+
+GEO satellites, located at approximately 35,786 km above the Earth’s surface, offer continuous coverage over a fixed area, making them ideal for applications like weather monitoring, global broadcasting, and command-control communication. Their ability to provide persistent visibility makes them suitable for strategic oversight, especially in scenarios requiring constant data flow.
+
+In contrast, LEO satellites operate at altitudes between 500 to 2,000 km and offer high-resolution imaging with lower latency. They are ideal for reconnaissance, terrain mapping, and real-time intelligence gathering. Their proximity to Earth enables the use of compact, high-resolution sensors capable of detecting enemy movements, missile installations, or terrain changes in hostile environments. While GEO provides consistency, LEO offers flexibility and detail—especially valuable in rapid response operations.
+
+From orbital mechanics and signal strength to revisit time and image resolution, each satellite class brings unique strengths. Military operations today often use a hybrid approach, integrating both satellite types to form a resilient, global intelligence network.
+
+Thus, understanding the trade-offs between GEO and LEO satellites is critical in designing satellite missions for defense, disaster management, and national security. A coordinated deployment of both orbits ensures strategic depth, tactical agility, and technological superiority in space-based operations.
+
+![image](https://github.com/user-attachments/assets/8ab09fc9-03ec-44c3-85d4-d1cff9af3571)
+
+# References
+1. Wertz, J. R., Everett, D. F., & Puschell, J. J. (2011). Space Mission Engineering: The New SMAD. Microcosm Press.
+– Comprehensive guide on satellite mission planning and orbital mechanics.
+
+2. Larson, W. J., & Wertz, J. R. (1999). Spacecraft Mission Analysis and Design. 3rd ed., Springer.
+– Includes detailed analysis of LEO and GEO systems and link budget formulas.
+
+3. Maral, G., & Bousquet, M. (2009). Satellite Communications Systems: Systems, Techniques and Technology. Wiley.
+– Covers satellite link budget, FSPL, and communication subsystems.
+
+4. Kaplan, E. D., & Hegarty, C. J. (2017). Understanding GPS/GNSS: Principles and Applications. Artech House.
+– Provides insights into satellite navigation, Doppler effect, and signal tracking.
+
+5. NASA Earth Observatory. (n.d.). Understanding Orbits.
+https://earthobservatory.nasa.gov/features/Orbits
+– Educational resource on satellite types, orbits, and Earth observation.
+
+6. United States Geological Survey (USGS). (2023). Remote Sensing and Satellite Imaging Systems.
+https://www.usgs.gov/core-science-systems/nli/landsat
+– Source for satellite imaging techniques and GSD explanation.
+
+7. European Space Agency (ESA). (2023). Sentinel Satellite Missions and Earth Observation Tools.
+https://www.esa.int/Applications/Observing_the_Earth
+
+8. Defense Intelligence Agency. (2021). Satellite Reconnaissance and Strategic Military Applications.
+– Confidential briefings and unclassified reports on KH-series LEO spy satellites (public summary reports).
+
+
+
+
+
+
+
 
 
 
