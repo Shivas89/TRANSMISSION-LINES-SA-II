@@ -47,6 +47,56 @@ Ideal for 3D terrain mapping, disaster monitoring, and missile tracking.
 
 ![image](https://github.com/user-attachments/assets/8dcb6323-0403-4044-a2df-4991a6a7bf76)
 
+# 1. Orbital Mechanics
+Kepler’s Third Law (Orbital Period)
+𝑇
+=
+2
+𝜋
+𝑟
+3
+𝐺
+𝑀
+T=2π 
+GM
+r 
+3
+ 
+​
+ 
+​
+ 
+𝑇
+T = orbital period (seconds)
+
+𝑟
+r = distance from Earth's center (meters)
+
+𝐺
+G = gravitational constant 
+6.674
+×
+10
+−
+11
+6.674×10 
+−11
+ 
+
+𝑀
+M = mass of Earth 
+5.972
+×
+10
+24
+ 
+kg
+5.972×10 
+24
+ kg
+
+# Application: Determines satellite orbit time, e.g., a LEO satellite orbits Earth every ~90 minutes, ideal for frequent surveillance passes.
+
 
 
 
