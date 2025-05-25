@@ -62,9 +62,6 @@ GM
 r 
 3
  
-​
- 
-​
  
 𝑇
 T = orbital period (seconds)
@@ -95,7 +92,189 @@ kg
 24
  kg
 
-# Application: Determines satellite orbit time, e.g., a LEO satellite orbits Earth every ~90 minutes, ideal for frequent surveillance passes.
+# Application:
+Determines satellite orbit time, e.g., a LEO satellite orbits Earth every ~90 minutes, ideal for frequent surveillance passes.
+![image](https://github.com/user-attachments/assets/4ab4792e-9523-4188-941f-bbda87fc9801)
+
+ # 2. Free Space Path Loss (FSPL)
+FSPL (dB)
+=
+20
+log
+⁡
+10
+(
+𝑑
+)
++
+20
+log
+⁡
+10
+(
+𝑓
+)
++
+92.45
+FSPL (dB)=20log 
+10
+​
+ (d)+20log 
+10
+​
+ (f)+92.45
+𝑑
+d = distance (km),
+
+𝑓
+f = frequency (GHz)
+
+# Application:
+
+Used to estimate signal strength at ground stations.
+
+GEO satellites (35,786 km) suffer higher FSPL, requiring high-gain antennas.
+![image](https://github.com/user-attachments/assets/1796d970-a9b0-4719-a06f-4b95d9a3e5b7)
+
+# 3. Slant Range (Distance from Satellite to Ground Point)
+𝑅
+=
+(
+𝑅
+𝐸
++
+ℎ
+)
+2
+−
+𝑅
+𝐸
+2
+cos
+⁡
+2
+(
+𝜃
+)
+−
+𝑅
+𝐸
+sin
+⁡
+(
+𝜃
+)
+R= 
+(R 
+E
+​
+ +h) 
+2
+ −R 
+E
+2
+​
+ cos 
+2
+ (θ)
+​
+ −R 
+E
+​
+ sin(θ)
+𝑅
+𝐸
+R 
+E
+​
+ : Radius of Earth
+
+ℎ
+h: Satellite altitude
+
+𝜃
+θ: Elevation angle
+
+#  Application:
+Calculates distance to ground target for timing and imaging window, critical in missile early warning systems.
+![image](https://github.com/user-attachments/assets/7ec744fd-df7a-478a-aa88-2d916191a965)
+
+# 4. Ground Coverage Radius
+For a satellite at altitude 
+ℎ
+h:
+
+𝑟
+=
+𝑅
+𝐸
+⋅
+cos
+⁡
+−
+1
+(
+𝑅
+𝐸
+𝑅
+𝐸
++
+ℎ
+)
+r=R 
+E
+​
+ ⋅cos 
+−1
+ ( 
+R 
+E
+​
+ +h
+R 
+E
+​
+ 
+​
+ )
+# Application:
+Determines how much of Earth’s surface the satellite can "see" at one time—important for constellation design.
+![image](https://github.com/user-attachments/assets/2cf0d926-f9a5-4d38-aae9-293f2f3e411a)
+
+# 5. Resolution of Imaging System (GSD: Ground Sample Distance)
+GSD
+=
+𝐻
+⋅
+𝑝
+𝑓
+GSD= 
+f
+H⋅p
+​
+ 
+𝐻
+H: Satellite height above ground
+
+𝑝
+p: Pixel size of sensor
+
+𝑓
+f: Focal length of optical system
+
+# Application:
+
+Used in LEO spy satellites to estimate clarity of ground targets, e.g., reading license plates or identifying missile silos.
+![image](https://github.com/user-attachments/assets/2d4e3b2d-8636-41dd-b082-9b53edec026b)
+
+
+
+
+
+
+
+
+
 
 
 
