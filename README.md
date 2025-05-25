@@ -196,6 +196,7 @@ h: Satellite altitude
 θ: Elevation angle
 
 #  Application:
+
 Calculates distance to ground target for timing and imaging window, critical in missile early warning systems.
 ![image](https://github.com/user-attachments/assets/7ec744fd-df7a-478a-aa88-2d916191a965)
 
@@ -233,12 +234,12 @@ E
  +h
 R 
 E
-​
- 
-​
+
  )
+ 
 # Application:
 Determines how much of Earth’s surface the satellite can "see" at one time—important for constellation design.
+
 ![image](https://github.com/user-attachments/assets/2cf0d926-f9a5-4d38-aae9-293f2f3e411a)
 
 # 5. Resolution of Imaging System (GSD: Ground Sample Distance)
