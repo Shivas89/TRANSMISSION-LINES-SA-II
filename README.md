@@ -6,3 +6,21 @@ Theme: Static Observation vs Dynamic Scanning
 
 ![image](https://github.com/user-attachments/assets/2b3eb6b0-aedf-4309-9ea9-9ada8885260e)
 
+# Introduction
+In modern defense and intelligence systems, satellite-based surveillance and communication are critical. Depending on the mission—whether constant regional monitoring or detailed global imaging—the choice between Geostationary Earth Orbit (GEO) and Low Earth Orbit (LEO) satellites becomes pivotal.
+
+This report compares GEO and LEO satellites from a military intelligence perspective—under the codename Operation Falcon Eye—where situational awareness, response speed, and image clarity can define success on the battlefield.
+
+# Comparison Table
+Parameter	GEO Satellites	LEO Satellites
+Altitude	~35,786 km above the equator	~500–2,000 km
+Orbital Period	24 hours (synchronous with Earth’s rotation)	90–120 minutes
+Coverage Area	~1/3 of Earth's surface	Narrow swath; frequent revisits needed
+Latency	High (~250–600 ms)	Low (~20–50 ms)
+Signal Strength	Weaker due to distance	Stronger (closer to Earth)
+Use Case	Continuous monitoring of fixed regions	Rapid scanning with high detail
+Examples	INSAT, GOES, GSAT (Weather, broadcast)	KH-series, Starlink, Earth-observation constellations
+Power Requirement	High (more transmission power)	Lower (shorter link distance)
+
+
+
