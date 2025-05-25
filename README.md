@@ -11,6 +11,7 @@ In modern defense and intelligence systems, satellite-based surveillance and com
 
 This report compares GEO and LEO satellites from a military intelligence perspective—under the codename Operation Falcon Eye—where situational awareness, response speed, and image clarity can define success on the battlefield.
 
+
 # Comparison 
 Parameter	GEO Satellites	LEO Satellites
 Altitude	~35,786 km above the equator	~500–2,000 km
@@ -22,6 +23,7 @@ Use Case	Continuous monitoring of fixed regions	Rapid scanning with high detail
 Examples	INSAT, GOES, GSAT (Weather, broadcast)	KH-series, Starlink, Earth-observation constellations
 Power Requirement	High (more transmission power)	Lower (shorter link distance)
 
+
  # GEO Satellite Characteristics:
 Orbit matches Earth’s rotation → appears stationary from Earth.
 
@@ -30,7 +32,9 @@ Ideal for communication, weather monitoring, TV broadcasting.
 Limited in capturing high-resolution images due to high altitude.
 
 Beam divergence increases → lower spatial resolution.
+
 ![image](https://github.com/user-attachments/assets/c035d69a-fe75-4a3e-ac80-6c4038495f84)
+
 
 # LEO Satellite Characteristics:
 Much closer to Earth → orbits ~16 times per day.
@@ -40,6 +44,7 @@ Excellent for high-resolution Earth imaging, reconnaissance, spy operations.
 Needs a constellation for continuous coverage.
 
 Ideal for 3D terrain mapping, disaster monitoring, and missile tracking.
+
 ![image](https://github.com/user-attachments/assets/8dcb6323-0403-4044-a2df-4991a6a7bf76)
 
 
